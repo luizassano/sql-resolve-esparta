@@ -1,5 +1,4 @@
 //EX 01
-
 function solucao1(A) {
     let resultado = 0;
     for (let i = 0; i < A.length; i++) {
@@ -8,7 +7,6 @@ function solucao1(A) {
     return resultado;
   }
   
-
 //EX 02
 function solucao2(arr) {
   const valoresUnicos = {}; 
@@ -21,9 +19,7 @@ function solucao2(arr) {
   return Object.keys(valoresUnicos).length;
 }
 
-
 //EX 03
-
 function solucao3(N, M) {
   let X = new Array(N).fill(0);
   let i = 0;
