@@ -1,2 +1,2 @@
-# 👨‍💻 Resoluções para as consultas SQL - Teste Esparta
+# 👨‍💻 Resoluções para o Teste de Lógica e Consultas SQL- Teste Esparta
 
